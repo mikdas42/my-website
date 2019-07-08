@@ -9,3 +9,8 @@ create on a new branch
 another edit.  This rocks 
 
 why not edit it more...and more 
+
+
+## getting started section
+
+stuff here
